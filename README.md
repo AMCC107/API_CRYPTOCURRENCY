@@ -1,4 +1,4 @@
-# Crypto Conversion JSON API
+# Crypto Conversion 
 
 ## Overview
 This Python script allows you to query the current exchange rates for cryptocurrencies and fiat currencies, returning the results strictly in JSON format. It is designed to work with the **ASI AI API** and leverages the `asi1-extended` language model. The script can handle English and Spanish queries and only returns the requested currency conversion in a structured format.
